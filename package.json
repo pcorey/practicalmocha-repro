@@ -1,0 +1,11 @@
+{
+  "name": "practicalmocha-repro",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "chai": "^3.5.0",
+    "meteor-node-stubs": "^0.2.3"
+  }
+}
